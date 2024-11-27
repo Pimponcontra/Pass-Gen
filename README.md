@@ -1,2 +1,3 @@
-# Pass-Gen
-Script para generar contraseñas aleatorias
+## Pass-Gen
+## Script para generar contraseñas aleatorias
+### creado por PiMpOnMx 
